@@ -1,0 +1,146 @@
+
+body
+{
+margin: 0;
+padding: 0;
+    font-family: 'Fjalla One', sans-serif;
+background: url(img/bg.jpg) ;
+    background-size: cover;
+    
+}
+#wel
+{
+    font-size: 50px;
+    margin-top: 200px;
+    margin-bottom: 0;
+    text-align: center;
+    color:#f1c40f;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+#para
+{   
+    color: #fff;
+    font-size: 11px;
+    text-align: center;
+    word-spacing: 2px;
+    font-family: 'lobster', sans-serif;
+}
+#topbar {
+    float: left;
+    border-left: 1px;
+    height: 100%;
+}
+#logo
+{
+    height: 70px;
+    float: left;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin: 10px;
+    
+}
+#topmenu
+{
+    color: #fff;
+   font-family: 'Lobster', sans-serif;
+    font-size: 20px;
+    margin: 35px;
+    margin-left: 550px;
+    position: relative;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    
+}
+    #topmenu2
+{
+    color: #fff;
+    font-family: 'Lobster', sans-serif;
+    font-size: 20px;
+    transform: translate(-50%,0%);
+    position: relative;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    
+}
+ #topmenu3
+{
+    color: #fff;
+    font-family: 'Lobster', sans-serif;
+    font-size: 20px;
+    transform: translate(-30%,0%);
+    position: relative;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    
+}
+ #topmenu4
+{
+    color: #fff;
+    font-family: 'Lobster', sans-serif;
+    font-size: 20px;
+    transform: translate(-30%,0%);
+    position: relative;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    
+} #topmenu5
+{
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Lobster', sans-serif;
+    transform: translate(-30%,0%);
+    position: relative;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    
+} #topmenu6
+{
+    color: #fff;
+    font-size: 20px;
+    transform: translate(-20%,0%);
+    font-family: 'Lobster', sans-serif;
+    position: relative;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    
+}
+#fbt{
+color: #fff;
+width:20%;
+padding:10px;
+    margin-top: 20px;
+    margin-left: 420px;
+    border-radius: 20px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+background-color: #2980b9;
+
+}
+#jdt{
+    color: #fff;
+width:20%;
+padding:10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+background-color: #e67e22;
+}
